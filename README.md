@@ -1,3 +1,8 @@
 # Motion_planning_mobile_robot
 ROS c++ code for mobile robot\
-***To be continued***
+
+## TODO
+
+- convex optimazition for swarm 
+- basic framework for trajectory/motion planning
+- final project
