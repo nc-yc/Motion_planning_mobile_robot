@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyc/hw3/src/path_finder/include/path_finder/kdtree.h
+
+/home/zyc/hw3/src/path_finder/src/kdtree.c
+config.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+path_finder/kdtree.h
+/home/zyc/hw3/src/path_finder/src/path_finder/kdtree.h
+malloc.h
+-
+pthread.h
+-
+

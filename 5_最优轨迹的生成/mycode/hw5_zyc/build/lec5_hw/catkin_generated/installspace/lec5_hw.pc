@@ -1,0 +1,8 @@
+prefix=/home/zyc/hw5/install
+
+Name: lec5_hw
+Description: Description of lec5_hw
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

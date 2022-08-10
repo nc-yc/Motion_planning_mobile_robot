@@ -1,0 +1,8 @@
+prefix=/home/zyc/hw3/install
+
+Name: path_finder
+Description: Description of path_finder
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpath_finder
+Requires: occ_grid

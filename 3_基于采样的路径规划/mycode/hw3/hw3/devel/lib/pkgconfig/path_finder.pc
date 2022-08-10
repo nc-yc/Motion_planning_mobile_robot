@@ -1,0 +1,8 @@
+prefix=/home/zyc/hw3/devel
+
+Name: path_finder
+Description: Description of path_finder
+Version: 0.0.0
+Cflags: -I/home/zyc/hw3/src/path_finder/include
+Libs: -L${prefix}/lib -lpath_finder
+Requires: occ_grid

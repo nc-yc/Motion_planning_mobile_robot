@@ -1,0 +1,8 @@
+prefix=/home/zyc/hw3/install
+
+Name: occ_grid
+Description: Description of occ_grid
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -locc_grid
+Requires: roscpp std_msgs

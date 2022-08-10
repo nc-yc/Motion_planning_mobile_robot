@@ -1,0 +1,47 @@
+// {
+//     "configurations": [
+//         {
+//             "name": "Linux",
+//             "includePath": [
+//                 "/opt/ros/melodic/include/**",
+//                 "/usr/include/**",
+//                 "/home/zyc/hw6/devel/include/**",
+//                 "/home/zyc/hw6/src/car_simulator/include/**",
+//                 "/home/zyc/hw6/src/car_msgs/include/**",
+//                 "/home/zyc/hw6/src/mpc_car/include/**",
+//                 "/home/zyc/hw6/osqp/include/**"
+//               ],
+//             "defines": [],
+//             "compilerPath": "/usr/bin/gcc",
+//             "cStandard": "c17",
+//             "cppStandard": "c++17",
+//             "intelliSenseMode": "gcc-x64"
+//         }
+//     ],
+//     "version": 4
+// }
+{
+    "configurations": [
+      {
+        "browse": {
+          "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+          "limitSymbolsToIncludedHeaders": false
+        },
+        "includePath": [
+            "/opt/ros/melodic/include/**",
+            "/usr/include/**",
+            "/home/zyc/hw6/devel/include/**",
+            "/home/zyc/hw6/src/car_simulator/include/**",
+            "/home/zyc/hw6/src/car_msgs/include/**",
+            "/home/zyc/hw6/src/mpc_car/include/**",
+            "/home/zyc/hw6/osqp/include/**"
+          ],
+        "name": "ROS",
+        "intelliSenseMode": "gcc-x64",
+        "compilerPath": "/usr/bin/gcc",
+        "cStandard": "gnu11",
+        "cppStandard": "c++14"
+      }
+    ],
+    "version": 4
+  }
